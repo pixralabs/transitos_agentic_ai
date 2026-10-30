@@ -582,4 +582,3 @@ TRANSITOS Agentic AI is designed to become a capable, reusable intelligence laye
 Its strength should come from the combination of model reasoning, reliable tools, trusted application services, user-controlled memory, grounded information retrieval, and rigorous verification.
 
 **The objective is simple: make the system capable enough to be useful, constrained enough to be trustworthy, and modular enough to evolve without repeatedly rebuilding its foundations.**
-
